@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "55780821656",
+    "project_id": "linkyoutask",
+    "storage_bucket": "linkyoutask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55780821656:android:92083892652ad8066adeed",
+        "android_client_info": {
+          "package_name": "com.example.linkyoutask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55780821656-ie12hvqpep7n33n5cj4gnr5trrm202ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC49JZY1ezTlkSRQne4pBghvA_DxFkHyG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55780821656-ie12hvqpep7n33n5cj4gnr5trrm202ql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55780821656-5h8lb5uu4kr1815f4ml5mh3htije4to0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.linkyoutask.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
