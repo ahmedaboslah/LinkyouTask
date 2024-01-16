@@ -27,25 +27,7 @@ Future<void> postData(String email) async {
 
 
 
-  // Future<dynamic> Post(
-  //     {
-  //     required dynamic body,
-  //     String? token}) async {
-  //   Map<String, String> headers = {};
-  //   if (token != null) {
-  //     headers.addAll({'Authorization': 'Bearer $token'});
-  //   }
-  //   var response = await dio.post(
-  //     'https://reqres.in/api/users',
-  //     data: body,
-  //     queryParameters: headers
-  //   );
+   
  
-  //        Map<String,String> data =  response.data;
-  //        print(data);
-  //        return data;
-   
-   
-  // }
 
 }
